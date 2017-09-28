@@ -37,7 +37,7 @@ li a {
 }
 
 h1 {
-	margin-top: -1px;
+	margin-top: 5px;
 	color: #2FBFAC;
 	margin-left: 50px;
 }
@@ -48,6 +48,8 @@ div {
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 #bio {
